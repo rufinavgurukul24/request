@@ -1,0 +1,12 @@
+{
+    "id": "3457",
+    "parent_exercise_id": "3438",
+    "name": " Question 4",
+    "slug": "functions__DebugCode/question4",
+    "sequence_num": 1504,
+    "review_type": "manual",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"\\n\\n## Question 4\\n\\n Neeche diye huye codes mai kuch bugs hai. Ab aapko error find kar ke unhe solve karne hai.(number of bugs) \"},{\"type\":\"python\",\"value\":{\"code\":\"def voter(age):\\nif age < 18:\\n    print(\\\"eligible\\\")\\nelse:\\n    print(\\\"not eligible\\\")\\n    voter(20)\\n\",\"testCases\":[]}}]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/DebugCode/question4.md"
+}
